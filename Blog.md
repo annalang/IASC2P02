@@ -1,4 +1,4 @@
-This is my blog! </br>
+This is my blog! 
 
 
  <!--	Exported from Voyant Tools (voyant-tools.org).
