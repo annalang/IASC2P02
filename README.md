@@ -8,3 +8,6 @@
 
 
 + When looking at the digital humanities we are required to acknowledge the difference between data and capta. The way information is displayed allows the viewer to make preconceived assumptions therefore within the digital humanities the graphs need to display information in a slightly...<a href="publishblogpost.md">continue reading</a>
+
+
+[Contribution guidelines for this project](publishblogpost.md)
