@@ -4,4 +4,4 @@
 
 <p> I also run my own business designing and printing apparel from my home. This is something that I very much enjoy and would like to continue after I finish school. I have inserted a picture of my Logo </p>
 
-<img src="Annamadeca.jpg" alt="annamadeca logo" />
+<img src="Logo.png" alt="annamadeca logo" />
