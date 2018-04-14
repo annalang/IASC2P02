@@ -2,9 +2,17 @@
 
 ## Bio 
 
-<p> Hello! My name is Anna Lang. I am currently in my second year of Interactive Arts and Sciences at Brock University. I am in my third year here at Brock but took a year of Business Communication. I wanted a more creative program so switched at the beginning of my second year. </p> 
+<p> Hello! My name is Anna Lang. 
 
-<p> I also run my own business designing and printing apparel from my home. This is something that I very much enjoy and would like to continue after I finish school. I have inserted a picture of my Logo </p>
+I am currently in my second year of Interactive Arts and Sciences at Brock University. I am in my third year here at Brock but in my first year was enrolled in the Business Communication. I am expected to Graduate as of 2020. The reason for this switch was that I wanted a more creative program. 
+
+My specific research interest is cultural studies. The research program that I would like to undertake is how the current technology is changing the educational system in a secondary schools and post secondary education. 
+
+My existing projects reflect my specialization in cultural studies through looking at how collaboration between students have changed. My portfolio demonstrates these expertise by showing a wide variety of interest is several sections back up by references. 
+
+I have an interest in further work specialized in the ties to cultural, technology and the youth. I believe that this work can happen within the upper years of my degree thought the courses that are required for my program as well as any electives that I choose to take. </p> 
+
+<p> I also run my own business designing and printing apparel from my home. This is something that I very much enjoy and would like to continue after I finish school. I have inserted a picture of my Logo below. </p>
 
 <img src="Logo.png" alt="annamadeca logo" />
 
@@ -43,5 +51,5 @@ Image
 + When looking at the digital humanities we are required to acknowledge the difference between data and capta. The way information is displayed allows the viewer to make preconceived assumptions therefore within the digital humanities the graphs need to display information in a slightly...[Continue reading](publishblogpost.md)
 
 
-Solo Presentation 
+## Solo Presentation 
 
