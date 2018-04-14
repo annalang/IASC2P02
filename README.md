@@ -12,8 +12,6 @@ My existing projects reflect my specialization in cultural studies through looki
 
 I have an interest in further work specialized in the ties to cultural, technology and the youth. I believe that this work can happen within the upper years of my degree thought the courses that are required for my program as well as any electives that I choose to take. </p> 
 
-<p> I also run my own business designing and printing apparel from my home. This is something that I very much enjoy and would like to continue after I finish school. I have inserted a picture of my Logo below. </p>
-
 <p align="center">
   <img src="AL OWP003.jpg" alt="Anna Headshot" />
 </p>
