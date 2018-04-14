@@ -36,8 +36,10 @@ Overall these changes show x and y changes to my thinking.
 here is my 250 word collaboration statement. I apptoach collabration in x ways, which is reflectied in y work. (avaible here link to comit.) I also approach collabortion in a ways, which is relected in b work (avaiblle here link.) I also contributed x assets to my team, seen below. 
 
 Image
+<p align="center">
+  <img src="Screen Shot 2018-04-14 at 12.37.37 PM.png" alt="screenshot from githubt" />
+</p>
 
-1 comit 
 1 image 
 
 ## Research presentation 
