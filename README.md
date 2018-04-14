@@ -42,9 +42,11 @@ Image
 1 comit 
 1 image 
 
-## Reaseach presentation
+## Research presentation 
+
+[Click Here](reveal/index.html)
 
 
+## Academic Blog
 
-## Solo Presentation 
-[Link to Solo Presentation](reveal/index.html)
+When looking at the digital humanities we are required to acknowledge the difference between data and capta. The way information is displayed allows the viewer to make preconceived assumptions therefore within the digital humanities the graphs need to display information in a slightly...[Continue reading](publishblogpost.md)
