@@ -18,7 +18,7 @@ I have an interest in further work specialized in the ties to cultural, technolo
   <img src="Logo.png" alt="annamadeca logo" />
 </p>
 
-## Featured Project: [Title of project]
+## Featured Project:  Academic blog 
 
 image 
 
@@ -29,9 +29,7 @@ I also makde these changes which you can see [here] link to other change compit
 
 Overall these changes show x and y changes to my thinking. 
 
-Read [title goes here](readme)
-
-
++ When looking at the digital humanities we are required to acknowledge the difference between data and capta. The way information is displayed allows the viewer to make preconceived assumptions therefore within the digital humanities the graphs need to display information in a slightly...[Continue reading](publishblogpost.md)
 
 ## Collaborative Project 
 
@@ -44,14 +42,9 @@ Image
 1 comit 
 1 image 
 
-## Academic blog 
-
 ## Reaseach presentation
-[Link to Solo Presentation](reveal/index.html)
 
-
-+ When looking at the digital humanities we are required to acknowledge the difference between data and capta. The way information is displayed allows the viewer to make preconceived assumptions therefore within the digital humanities the graphs need to display information in a slightly...[Continue reading](publishblogpost.md)
 
 
 ## Solo Presentation 
-
+[Link to Solo Presentation](reveal/index.html)
