@@ -4,13 +4,13 @@
 
 <p> Hello! My name is Anna Lang. 
 
-I am currently in my second year of Interactive Arts and Sciences at Brock University. I am in my third year here at Brock but in my first year was enrolled in the Business Communication. I am expected to Graduate as of 2020. The reason for this switch was that I wanted a more creative program. 
+  I am currently in my second year of Interactive Arts and Sciences at Brock University. I am in my third year here at Brock but in my first year was enrolled in the Business Communication. I am expected to Graduate as of 2020. The reason for this switch was that I wanted a more creative program. 
 
-My specific research interest is cultural studies. The research program that I would like to undertake is how the current technology is changing the educational system in a secondary schools and post secondary education. 
+  My specific research interest is cultural studies. The research program that I would like to undertake is how the current technology is changing the educational system in a secondary schools and post secondary education. 
 
-My existing projects reflect my specialization in cultural studies through looking at how collaboration between students have changed. My portfolio demonstrates these expertise by showing a wide variety of interest is several sections back up by references. 
+  My existing projects reflect my specialization in cultural studies through looking at how collaboration between students have changed. My portfolio demonstrates these expertise by showing a wide variety of interest is several sections back up by references. 
 
-I have an interest in further work specialized in the ties to cultural, technology and the youth. I believe that this work can happen within the upper years of my degree thought the courses that are required for my program as well as any electives that I choose to take. </p> 
+  I have an interest in further work specialized in the ties to cultural, technology and the youth. I believe that this work can happen within the upper years of my degree thought the courses that are required for my program as well as any electives that I choose to take. </p> 
 
 <p align="center">
   <img src="AL OWP003.jpg" alt="Anna Headshot" />
@@ -31,16 +31,19 @@ Overall these changes show x and y changes to my thinking.
 
 ## Collaborative Project 
 
-100 word project description. 
+  Within this collaborative project my group of four worked to explain, create and show a group of students what the tool Hypercities could do. This task required our group to communicate heavily with each other and to work side by side to make a unified assignment. We relied on the the site Github to communicate and post parts of the project. We also communicated in the form of a group chat on the social media platform Facebook. We found that not only that Hypercities was a more difficult concept to grasp but the tool its self was extreme hard to use. 
 
-here is my 250 word collaboration statement. I apptoach collabration in x ways, which is reflectied in y work. (avaible here link to comit.) I also approach collabortion in a ways, which is relected in b work (avaiblle here link.) I also contributed x assets to my team, seen below. 
+I personally apptoach collabration in a way that focuses on communcation, which is reflectied in this work by how our project was connected through out the presentation. By focusing on communication this allows all members of the group to be aware of what direction this project is taking, it also inables the group members to allocate their time while knowing  (avaible here link to comit.) I also approach collabortion in a ways, which is relected in b work (avaiblle here link.) I also contributed x assets to my team, seen below. 
 
 Image
 <p align="center">
   <img src="Screen Shot 2018-04-14 at 12.37.37 PM.png" alt="screenshot from githubt" />
 </p>
 
-1 image 
+<p align="center">
+  <img src="SNY Pop Dens 1980 NB.PNG" alt="Example of Hypercities" />
+</p>
+
 
 ## Research presentation 
 
