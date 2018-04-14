@@ -40,7 +40,7 @@ I personally approach collaboration in a way that focuses on communication, whic
 </p>
 
 <p align="center">
-  <img src="NY Pop Dens 1980 NB.png" alt="Example of Hypercities" />
+  <img src="hypercitiesex.PNG" alt="Example of Hypercities" />
 </p>
 
 
