@@ -35,7 +35,6 @@ Overall these changes show x and y changes to my thinking.
 
 I personally approach collaboration in a way that focuses on communication, which is reflected in this work by how our project was connected through out the presentation. By focusing on communication this allows all members of the group to be aware of what direction this project is taking, it also enables the group members to allocate their time while knowing what still needs to be completed. I sent up the some pages available for collaboration on the groups assigned Github page. We also used a google doc to complete our slide show. This allowed the members to work in real time all at once. I also approach collaboration in the direct way, which is related to all group members being responsible for their assigned work. I also contributed some leadership assets to my team, seen below through the completion of the setting up of the github. By helping establish what roles everyone had we were able to work individually and on our own time.  
 
-Image
 <p align="center">
   <img src="Screen Shot 2018-04-14 at 12.37.37 PM.png" alt="screenshot from githubt" />
 </p>
