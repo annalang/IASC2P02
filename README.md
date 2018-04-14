@@ -15,7 +15,7 @@ I have an interest in further work specialized in the ties to cultural, technolo
 <p> I also run my own business designing and printing apparel from my home. This is something that I very much enjoy and would like to continue after I finish school. I have inserted a picture of my Logo below. </p>
 
 <p align="center">
-  <img src="Logo.png" alt="annamadeca logo" />
+  <img src="AL OWP003.jpg" alt="Anna Headshot" />
 </p>
 
 ## Featured Project:  Academic blog 
