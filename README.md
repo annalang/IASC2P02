@@ -16,7 +16,7 @@
   <img src="AL OWP003.jpg" alt="Anna Headshot" />
 </p>
 
-## Featured Project:  Academic blog 
+## Featured Project:  Research presentation  
 
 image 
 
