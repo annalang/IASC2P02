@@ -30,9 +30,9 @@ Overall I think my research evolved slowly to separate places. The first  of evo
 The second evolution occurs within the creation of the five extra slides to take this presentation firm the required project to an actual Pecha Kucha.  I focused more on the encryption that happens today related to the enigma machine and the media archaeology.  Looking specifically at how people relate to the Enigma Machine and our current technology. In using examples that are more accurate than ones I used in previous presentations. As you can see in the following commit these changes were made at the end of the slideshow and allowed the user to gain a better understanding of these topics.[Click Here](https://github.com/annalang/IASC2P02/commit/5a7423610eaebbf0c1f89d3fe846778f838ed11a)
 
 
-I also makde these changes which you can see [here] link to other change compit 
+I also made additional changes/additions to slides which you can see [here](https://github.com/annalang/IASC2P02/commit/9d5a208713e4c3460966fd46835dc11c23b696d8) 
 
-Overall these changes show x and y changes to my thinking. 
+Overall these changes show my ability to take feedback and make it effective within my presentations. 
 
 [Click Here](reveal/index.html)
 
