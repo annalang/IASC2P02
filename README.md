@@ -22,7 +22,9 @@
   <img src="enigma.jpg" alt="Enigma Machine Photo" />
 </p> 
 
-Here is 250 workds introducing this work. 
+This solo presentation that I completed. This specific project was to complete a Pecha Kucha presentation, which is a presentation that uses automatically advanced presentation slides. This presentation is suppose to be 5 minute review of 20 slides that are shown for 20 seconds each. This idea is that each slide being shown has a specific focus and there is no wasted time. The topic that I choose to focus on was the Enigma Machine used within the second world war and how this changed the War. I approached this project with the thought that every second within the presentation counted and that each slide needed to have a specific focus and was required for the presentation to be successful. My approach to this project was to research and find as much information as I possibly could and then only use the information to make my point. 
+
+
 Here is my 250 word statement describing how this reasearch evolved over time. I made these changes, which you acan see here [here] link to git hub commit. 
 
 I also makde these changes which you can see [here] link to other change compit 
