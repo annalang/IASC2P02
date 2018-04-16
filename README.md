@@ -18,7 +18,9 @@
 
 ## Featured Project:  Research presentation  
 
-image 
+<p align="center">
+  <img src="enigma.jpg" alt="Enigma Machine Photo" />
+</p> 
 
 Here is 250 workds introducing this work. 
 Here is my 250 word statement describing how this reasearch evolved over time. I made these changes, which you acan see here [here] link to git hub commit. 
