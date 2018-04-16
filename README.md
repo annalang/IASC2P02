@@ -31,7 +31,7 @@ I also makde these changes which you can see [here] link to other change compit
 
 Overall these changes show x and y changes to my thinking. 
 
-+ When looking at the digital humanities we are required to acknowledge the difference between data and capta. The way information is displayed allows the viewer to make preconceived assumptions therefore within the digital humanities the graphs need to display information in a slightly...[Continue reading](publishblogpost.md)
+[Click Here](reveal/index.html)
 
 ## Collaborative Project 
 
